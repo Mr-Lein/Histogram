@@ -13,15 +13,15 @@ public class Histogram
 	{
 	}
 	
-	public int getValue( String s )
+	public void printMap()
 	{
-		return 0;
+		//use a for each loop to traverse your map and print 
+		// in the following format: 
+		// 'key' count = 'value'
+		// example: a count = 2
+
+		
 	}
 
-	public String toString()
-	{
-		String output="";
-		String allStars="";
-		return output+"\n\n";
-	}
+	
 }
